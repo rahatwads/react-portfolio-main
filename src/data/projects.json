@@ -30,7 +30,7 @@
   {
     "title": "Cardio Vascular Disease prediction",
     "imageSrc": "projects/CDP.png",
-    "description": "Accelerated a comprehensive vehicle management system app utilizing Java and MySQL for cab booking, rentals, and servicing processes.",
+    "description": "Achieved 85% model accuracy by developing a predictive model for cardiovascular disease risk using Python and machine learning, enhancing early detection capabilities",
     "skills": ["Python", "Pandas", "NumPy",  "Seaborn","Scikit-learn", "Matplotlib", "Jupyter Notebook"],
     "source": "https://github.com/rahatwads/Data-science---Cardiovascular-Disease-Risk-Prediction"
   },
