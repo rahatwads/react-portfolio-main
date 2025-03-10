@@ -1,0 +1,34 @@
+/* Paper.module.css */
+.container {
+  margin: 40px 0;
+  padding: 20px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  border-radius: 8px;
+  color: white; /* Ensures text is white */
+}
+
+.title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.description {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #621ec9;
+  color: white; /* Ensures button text is white */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
