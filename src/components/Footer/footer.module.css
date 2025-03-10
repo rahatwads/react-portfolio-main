@@ -1,0 +1,18 @@
+
+
+.footer {
+    background-color: #132a53; /* Dark background similar to Hero section */
+    color: white; /* White text */
+    text-align: center;
+    padding: 20px;
+    font-size: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-weight: 400;
+  }
+  

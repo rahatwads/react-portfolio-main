@@ -1,0 +1,66 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/data.png"
+  },
+  {
+    "title": "PM Tools",
+    "imageSrc": "skills/pm.png"
+  },
+  {
+    "title": "Cloud ",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "DevOps",
+    "imageSrc": "skills/devops.png"
+  },
+
+{
+    "title": "Testing",
+    "imageSrc": "skills/testing.png"
+  }
+
+
+
+]

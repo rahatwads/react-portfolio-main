@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Dreamhouse real estate website",
+    "imageSrc": "projects/dh.jpg",
+    "description":  "Constructed a property search platform with MongoDB, Express.js, React, and Node.js, increasing user engagement by 40%",
+    "skills": ["MongoDB","React", "Express", "Node"],
+    "source": "https://github.com/saisrujanpenta/DreamHome-MERN-Stack-Website"
+  },
+  {
+    "title": "StepUp Shoe website",
+    "imageSrc": "projects/Stepup.png",
+    "description": "Optimized user accessibility by designing interactive Figma prototypes and collaborating with developers for pixel-perfect implementation ",
+    "skills": ["Figma"],
+    "source": "https://www.figma.com/design/fXlb1Zgpot0ROGSI7p6jNe/StepUp-Prototype?node-id=0-1&p=f"
+  },
+  {
+    "title": "Bonvoyage Vehicle Management",
+    "imageSrc": "projects/VMS.png",
+    "description": "Accelerated a comprehensive vehicle management system app utilizing Java and MySQL, resulting in a 30% increase in efficiency for cab booking, rentals, and servicing processes.",
+    "skills": ["Java","Mysql"],
+    "source": "https://github.com/rahatwads/JAVA--BONVOYAGE-Car-application"
+  },
+  {
+    "title": "Company recruitement system",
+    "imageSrc": "projects/crs.jpg",
+    "description":  "Optimized recruitment processing by designing automated stored procedures and improving query performance, reducing manual inefficiencies, enhanced data accuracy, reduced redundancies by creating a normalized database schema, improving data reliability for HR reporting",
+    "skills": ["Mysql","Azure Data studio"],
+    "source": "https://github.com/saisrujanpenta/DreamHome-MERN-Stack-Website"
+  },
+  {
+    "title": "Cardio Vascular Disease prediction",
+    "imageSrc": "projects/CDP.png",
+    "description": "Accelerated a comprehensive vehicle management system app utilizing Java and MySQL for cab booking, rentals, and servicing processes.",
+    "skills": ["Python", "Pandas", "NumPy",  "Seaborn","Scikit-learn", "Matplotlib", "Jupyter Notebook"],
+    "source": "https://github.com/rahatwads/Data-science---Cardiovascular-Disease-Risk-Prediction"
+  },
+  {
+    "title": "Instacart: Personalized recommendation system",
+    "imageSrc": "projects/instacart.jpg",
+    "description": "Documented business requirements BRD, FRD, for feature development, reducing project timelines by 15%",
+    "skills": [" Requirements Elicitation", "Process Modeling", "User Story Creation","SWOT" ,"Gap Analysis"],
+    "source": "https://github.com/rahatwads/Instacart-Personalized-recommendation-system"
+  }
+]

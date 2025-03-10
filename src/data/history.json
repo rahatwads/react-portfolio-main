@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "CFS",
+    "startDate": "Aug, 2023",
+    "endDate": "Jan 2024",
+ 
+    "imageSrc": "history/cfs.png"
+  },
+  {
+    "role": "Analyst, Software Developer",
+    "organisation": "TIAA",
+    "startDate": "July, 2020",
+    "endDate": "Aug, 2022",
+    "imageSrc": "history/tiaa.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Ethosh Designs",
+    "startDate": "Nov, 2020",
+    "endDate": "Apr, 2020",
+
+    "imageSrc": "history/ethosh.png"
+  }
+]
