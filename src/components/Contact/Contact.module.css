@@ -7,7 +7,8 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 100vw;
+  width: 100%; /* Ensure it takes up the full width */
+  box-sizing: border-box; /* Avoid overflow issues */
   padding: 58px 10%;
   gap: 10px;
 }
@@ -46,10 +47,12 @@
   letter-spacing: 1.5px;
 }
 
+/* Adjustments for smaller screens */
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
     gap: 23px;
+    padding: 30px 5%; /* Reduce padding on mobile for better space */
   }
 
   .text {
@@ -58,7 +61,39 @@
     align-items: center;
   }
 
+  .text h2 {
+    font-size: 50px; /* Adjust heading size */
+  }
+
+  .text p {
+    font-size: 26px; /* Adjust paragraph text size */
+  }
+
   .links {
     align-items: center;
+    gap: 15px; /* Reduce gap between links */
+  }
+
+  .link a {
+    font-size: 24px; /* Make link text smaller */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* Further adjustments for very small screens */
+  .text h2 {
+    font-size: 30px; /* Make heading even smaller */
+  }
+
+  .text p {
+    font-size: 18px; /* Adjust paragraph text for small screens */
+  }
+
+  .links {
+    gap: 10px; /* Further reduce gap between links */
+  }
+
+  .link a {
+    font-size: 18px; /* Adjust link text size for small screens */
   }
 }
